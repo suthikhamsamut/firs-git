@@ -1,2 +1,2 @@
 console.log("Test Hello World");
-console.log("Suthi");
+console.log("Suthi Khamsamut");
