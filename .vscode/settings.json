@@ -1,0 +1,40 @@
+{
+    "cSpell.autoFormatConfigFile": true,
+    "beautify.ignore": "",
+    "editor.defaultFormatter": "Codeium.codeium",
+    "editor.codeActionsOnSave": {},
+    "files.autoSave": "afterDelay",
+    "stylelint.autoFixOnSave": true,
+    "beautify.config": "",
+    "beautify.language": {
+
+        "js": {
+            "type": [
+                "javascript",
+                "json",
+                "jsonc"
+            ],
+            "filename": [
+                ".jshintrc",
+                ".jsbeautifyrc"
+            ]
+        },
+        "css": [
+            "css",
+            "less",
+            "scss"
+        ],
+        "html": [
+            "htm",
+            "html"
+        ]
+    },
+
+    "editor.formatOnSave": true,
+    "codeium.enableSearch": true,
+    "codeium.detectProxy": true,
+
+
+
+
+}
